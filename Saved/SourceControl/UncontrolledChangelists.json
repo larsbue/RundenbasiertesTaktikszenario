@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/TurnBasedProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"F:/TurnBasedProject/Content/StarterContent/Maps/L_Entry.umap",
+				"F:/TurnBasedProject/Content/StarterContent/Maps/Minimal_Default.umap",
+				"F:/TurnBasedProject/Content/StarterContent/Blueprints/Core/Player/BP_PlayerController.uasset",
+				"F:/TurnBasedProject/Content/StarterContent/Blueprints/Core/Player/BP_GameMode.uasset",
+				"F:/TurnBasedProject/Content/StarterContent/Blueprints/Core/Player/BP_Pawn.uasset"
+			]
+		}
+	]
+}
