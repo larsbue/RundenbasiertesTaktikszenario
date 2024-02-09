@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"F:\\TurnBasedProject\\Source\\TurnBasedProject\\TurnBasedProject.Build.cs",
-		"F:\\TurnBasedProject\\Source\\TurnBasedProject.Target.cs",
-		"F:\\TurnBasedProject\\Source\\TurnBasedProjectEditor.Target.cs"
-	],
-	"EngineVersion": "5.2.1"
-}

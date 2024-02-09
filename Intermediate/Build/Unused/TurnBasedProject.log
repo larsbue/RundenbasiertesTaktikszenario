@@ -1,6 +1,0 @@
-﻿  Using bundled DotNet SDK version: 6.0.302
-  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" TurnBasedProjectEditor Win64 Development -Project="F:\TurnBasedProject\TurnBasedProject.uproject" -WaitMutex -FromMsBuild
-  Log file: C:\Users\larsb\AppData\Local\UnrealBuildTool\Log.txt
-  Using 'git status' to determine working set for adaptive non-unity build (F:\TurnBasedProject).
-  Target is up to date
-  Total execution time: 0.62 seconds
